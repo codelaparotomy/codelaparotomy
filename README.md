@@ -1,5 +1,7 @@
 ## Research Overview: Ryan Zeh, MD
 
+This repository serves as the central hub for ongoing projects at the intersection of surgical oncology, biomedical informatics, and artificial intelligence.
+
 ## Current Focuses
 
 ### 1. **Radiomic Applications to Surgical Oncology**
