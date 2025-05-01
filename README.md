@@ -10,7 +10,7 @@ This repository serves as the central hub for ongoing projects at the intersecti
   - Modeling approaches include linear regression, random forest, XGB and DL via neural nets.
 
 ### 2. **Computer Vision**
-  - Building vide-based assessment tools to predict intraoperative events and post operative complications
+  - Building video-based assessment tools to predict intraoperative events and post operative complications
   - Integrating CNNs and transformer-based models for intraoperative decision support
 
 ### 3.**Clinical Decision Support Tools**
