@@ -2,7 +2,7 @@
 
 ## Current Focuses
 
-### 1. Radiomic applications to surgical oncology
+### 1. Radiomic Applications to Surgical Oncology
   -Developing pipelines for feature extraction from segmented CT and MRIs using pyradiomics
   -Current projects: Melanoma liver metastasis,rectal cancer, gallbladder cancer, pancreatic cancer
   -modeling approaches include linear regression, random forest, XGB and DL via neural nets
